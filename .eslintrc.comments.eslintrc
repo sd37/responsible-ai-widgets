@@ -1,7 +1,0 @@
-{
-  "plugins": ["eslint-plugin-eslint-comments"],
-  "extends": ["plugin:eslint-comments/recommended"],
-  "rules": {
-    "eslint-comments/no-use": ["error", { "allow": [] }]
-  }
-}
